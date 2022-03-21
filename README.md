@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Creative, Passionate and Efficient Full-Stack Engineer</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Professional Full-Stack Engineer</h2>
 
   <p>
     <img align="right" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e3irsdddmug0u3w61c38ghfr2qi107fc59ozy58t&rid=200.webp&ct=g" />
