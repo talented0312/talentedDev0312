@@ -43,7 +43,7 @@
 ### 🚧 Current Projects
 - 🤑 Multi-DEX & Payment Integration
 - 🔗 Third Party API Integration
-- 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby
+- 🎨 React 𒑰 Material UI 𒑰 Fuse React 𒑰 Semantic UI 𒑰 Styled Component 𒑰 Next 𒑰 Gatsby 𒑰 Three.js
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱 What I'm boosting
