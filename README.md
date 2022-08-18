@@ -1,3 +1,5 @@
+<img align="center" src="https://res.cloudinary.com/gurucom/image/upload/w_1000,h_250,f_auto/v1626696622/pimg/FreelancerFiles/1/424/1424458/wd3z6ktktaqg2wypfzu0.jpg" />
+
 <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
